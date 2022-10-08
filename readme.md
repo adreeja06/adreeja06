@@ -9,7 +9,7 @@ Hi,
 
 ## 🙋‍♂️ About Me
 
-I am a student currently in my 2nd year pursuing B-Tech in Electrical Engineering. I am a passionate coder and an Open Source Contributor. I am greatly attracted to technologies among which Machine Learning excites me the most. I really enjoy learning new things and am constantly seeking out new learning opportunities. I also participated in many Open-Souces namely Script Winter of Code (SWOC) and I attained a rank of 13 there, JGEC Winter of Code 2022 and Hacktoberfect 2021 where I received swags for successfully merging 5 PRs. I received the Google WE Scholarship 2021 by ranking in Top 500 and also received the WEAmplify Scholarship 2022 from Harvard University for their WECode Conference. Recently I got selected as a mentee at Microsoft Engage 2022. I also love Problem-Solving and also cleared Google CodeJam 2022 qualification round. 
+I am a student currently in my 2nd year pursuing B-Tech in Electrical Engineering. I am a passionate coder and an Open Source Contributor. I am greatly attracted to technologies among which Machine Learning excites me the most. I really enjoy learning new things and am constantly seeking out new learning opportunities. 
 
  Languages:- Java, CPP (Basics), Python (Basics)
  
