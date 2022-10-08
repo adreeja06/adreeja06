@@ -75,10 +75,10 @@ I am a student currently in my 2nd year pursuing B-Tech in Electrical Engineerin
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/sainik-khaddar/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=adreeja06">
 </a>
-<a href="https://github.com/tandrimasingha?tab=followers"><img src="https://img.shields.io/github/followers/adreeja06?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sainik-khaddar?tab=followers"><img src="https://img.shields.io/github/followers/adreeja06?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 ## Adreeja ~ owner
