@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am a student currently in my 2nd year pursuing B-Tech in Electrical Engineering. I am a passionate coder and an Open Source Contributor. I am greatly attracted to technologies among which Machine Learning excites me the most. I really enjoy learning new things and am constantly seeking out new learning opportunities. 
+I am a student currently in my 1st year pursuing B-Tech in Electrical and Instrumentation Engineering. I am a passionate coder and an Open Source Contributor. I am greatly attracted to technologies among which Machine Learning excites me the most. I really enjoy learning new things and am constantly seeking out new learning opportunities. 
 
  Languages:- Java, CPP (Basics), Python (Basics)
  
