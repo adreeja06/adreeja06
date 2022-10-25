@@ -16,6 +16,7 @@ I am a student currently in my 1st year pursuing B-Tech in Electrical and Instru
  Interest:- Problem-solving, Machine Learning, Chess
  
  a
+ [![@adreeja06's Holopin board](https://holopin.me/adreeja06)](https://holopin.io/@adreeja06)
 
  
 ## 🚀 Languages and Tools:
