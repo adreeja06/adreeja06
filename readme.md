@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am a student currently in my 1st year pursuing B-Tech in Electrical and Instrumentation Engineering. 
+I am currently a B-Tech undrgrad persuing Applied Electronics and Instrumentation Engineering. 
 
  
  [![@adreeja06's Holopin board](https://holopin.me/adreeja06)](https://holopin.io/@adreeja06)
