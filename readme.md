@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am currently a B-Tech undrgrad persuing Applied Electronics and Instrumentation Engineering. 
+I am currently a B.Tech undergrad persuing Applied Electronics and Instrumentation Engineering. 
 
  
  [![@adreeja06's Holopin board](https://holopin.me/adreeja06)](https://holopin.io/@adreeja06)
@@ -43,7 +43,7 @@ I am currently a B-Tech undrgrad persuing Applied Electronics and Instrumentatio
 <br/>
 <br/>
 
-<a href="https://github.com/adreeja06/github-readme-activity-graph"><img alt="Tandrima's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adreeja06&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/adreeja06/github-readme-activity-graph"></a>
 
 <br/>
 <br/>
