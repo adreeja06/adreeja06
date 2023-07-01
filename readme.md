@@ -33,11 +33,6 @@ I am currently a B.Tech undergrad persuing Applied Electronics and Instrumentati
     <a href="https://github.com/adreeja06/github-readme-stats"><img alt="Adreeja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adreeja06&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/adreeja06/github-readme-stats"><img alt="Tandrima Singha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adreeja06&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
   </br>
-  
- 
-
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
