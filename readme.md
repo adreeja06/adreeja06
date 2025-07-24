@@ -13,12 +13,15 @@ I'm a passionate engineering student currently pursuing a B.Tech in Applied Elec
 
 ---
 
-## 🎓 Education
+## 🏫 Education
 
-**Bachelor of Technology – Applied Electronics and Instrumentation Engineering**  
-Heritage Institute of Technology, Kolkata  
-📅 *October 2022 – June 2026*  
-📈 CGPA: 8.66
+- **Heritage Institute of Technology**, Kolkata  
+  *B.Tech in Applied Electronics and Instrumentation Engineering*  
+  *2022 – 2026* | **CGPA:** 8.66
+
+- **South Point High School**, Kolkata  
+  *2007 – 2022*
+
 
 ---
 
