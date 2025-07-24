@@ -38,6 +38,13 @@ Heritage Institute of Technology, Kolkata
 - Preprocessed 3,000+ images to reduce training time by 25%.  
 - Compiled findings in a comprehensive technical report shared with ISI Kolkata.
 
+  
+### Haldia Petrochemicals Limited  
+**Winter Intern, Instrumentation Trainee**  
+📅 December 2024 – January 2025  
+- Gained hands-on exposure to NCU, IOP, and Polymer Units.  
+- Observed instrumentation processes, plant automation, and control system integration.
+
 ---
 
 ## 🏆 Achievements
