@@ -1,80 +1,105 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adreeja Mahato</h1>
+# 👋 Hi, I'm Adreeja Mahato
 
-<p align="center"> 
-🎓 B.Tech in Applied Electronics and Instrumentation | 💻 Developer & ML Enthusiast | 🛠️ Hackathon Winner  
-</p>
+I'm a passionate engineering student currently pursuing a B.Tech in Applied Electronics and Instrumentation Engineering at Heritage Institute of Technology, Kolkata. I bridge the gap between hardware and software with a solid foundation in core electronics and computer science fundamentals. I build intelligent systems, ML pipelines, and full-stack applications that create real-world impact.
 
 ---
 
-## 🙋‍♀️ About Me
+## 📫 Contact Me
 
-- 🔬 Final-year undergrad at **Heritage Institute of Technology, Kolkata** (CGPA: 8.66)  
-- 💼 Interned at **IOCL** (developed safety dashboards using ASP.NET MVC)  
-- 🧠 Built **CNNs for image classification** at **ISI Kolkata**, achieving up to 96% accuracy  
-- 🚀 Developed & deployed **ML-based Student Performance Predictor** using Flask, Docker & Azure  
-- 🏆 Multiple **hackathon wins**, including Smart Bengal 2024 & StatusCode1 at IIIT Kalyani  
-- 🛠️ Skilled in Python, C++, SQL, TensorFlow, Docker, Embedded Systems  
-
-[![@adreeja06's Holopin board](https://holopin.me/adreeja06)](https://holopin.io/@adreeja06)
+- 📍 212 Rash Behari Avenue, Kolkata – 700019, West Bengal, India  
+- 📧 adreejamahato@gmail.com  
+- 📞 +91 9163605787  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adreeja-mahato-84a000226/)  
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🎓 Education
 
-`Python` `C++` `SQL` `TensorFlow` `Keras` `Scikit-learn` `Flask` `Docker`  
-`ESP32` `Arduino IDE` `MLflow` `React` `MongoDB` `Git` `Linux`  
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/adreeja06/github-readme-streak-stats">
-    <img title="🔥 GitHub Streak" alt="Adreeja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adreeja06&theme=onedark&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/adreeja06/github-readme-stats">
-    <img alt="Adreeja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adreeja06&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/adreeja06/github-readme-stats">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adreeja06&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
+**Bachelor of Technology – Applied Electronics and Instrumentation Engineering**  
+Heritage Institute of Technology, Kolkata  
+📅 *October 2022 – June 2026*  
+📈 CGPA: 8.66
 
 ---
 
-## 📌 Featured Project
+## 💼 Work Experience
 
-### 🎯 Student Performance Indicator  
-<sub>Machine Learning | Flask | Docker | Azure</sub>  
-- 📈 Built ML regression model with **R² score: 87.95%**  
-- 🚀 Deployed using Flask + Docker on Azure with MLflow & GitHub Actions  
-- [🔗 GitHub Link](#)
+### 💻 Indian Oil Corporation Ltd. – ERPL, Kolkata  
+**Summer Intern, Information Systems Department**  
+📅 *June 2025 – July 2025*  
+- Built a “Person in Premises” dashboard using C#, ASP.NET MVC, and SQL to enhance workplace safety, reducing unauthorized entries by 40%.  
+- Integrated real-time Work Permit Management, cutting manual checks by 60%.  
+- Worked closely with senior managers to align the system with existing safety protocols.
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/adreeja-mahato-84a000226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://www.instagram.com/_a.d.r.e.e.j.a_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
-
----
-
-## ❤️ Views and Followers
-
-<p align="center">
-<a href="https://github.com/adreeja06">
-  <img src="https://komarev.com/ghpvc/?username=adreeja06&style=flat-square&color=blue" />
-</a>
-<a href="https://github.com/adreeja06?tab=followers">
-  <img src="https://img.shields.io/github/followers/adreeja06?label=Followers&style=social" alt="GitHub Badge">
-</a>
-</p>
+### 🧠 Indian Statistical Institute, Kolkata  
+**Data Science Intern**  
+📅 *June 2024 – July 2024*  
+- Designed and trained CNN models with TensorFlow & Keras for brain tumor and fire image classification (achieved 92% & 96% accuracy).  
+- Preprocessed 3,000+ images to reduce training time by 25%.  
+- Compiled findings in a comprehensive technical report shared with ISI Kolkata.
 
 ---
 
-<p align="center"><i>✨ Let's build something amazing together!</i></p>
+## 💡 Projects
+
+### 🎓 Student Performance Indicator  
+**Tech Stack:** Python, Scikit-learn, Flask, Azure, Docker, MLflow  
+📅 *June 2025* – [GitHub Repo](#)  
+- Built an ML pipeline achieving 87.95% accuracy (R² score) to predict student outcomes.  
+- Deployed using Flask & Docker on Azure for 24/7 uptime.  
+- Automated CI/CD via GitHub Actions and tracked experiments with MLflow.
+
+### 🔥 Brain Tumor & Fire Detection  
+**Tech Stack:** Python, TensorFlow, OpenCV  
+- Developed deep learning models to detect tumors and fire from image datasets.  
+- Employed CNN architectures and data augmentation to improve model generalization.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner, Smart Bengal Hackathon 2024 (non-invasive blood glucose monitoring system)  
+- 🛠️ Hardware Track Winner, StatusCode1 Hackathon, IIIT Kalyani  
+- 🥈 1st Runner-up, DevX Hackathon, Jamia Millia Islamia  
+- 👩‍💻 Champion, HackHeritage 2023 (internal selection for Smart India Hackathon finals)  
+- 🧠 Runner-up, “MINDLOCK” – Ten Days of Code 2023, NIT Durgapur
+
+---
+
+## 🧰 Technical Skills
+
+**Programming Languages:** Python, C++, C, JavaScript, SQL  
+**Frameworks & Libraries:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, ReactJS, MERN Stack  
+**Tools & Platforms:** Git, Docker, MLflow, VS Code, Jupyter, Power BI, Tableau, Snowflake  
+**Embedded Systems:** Arduino, ESP32, Arduino IDE  
+**Technologies:** REST APIs, Distributed Systems, TCP/IP, Data Visualization  
+**Core Subjects:** DSA, DBMS, OS, CN, Microprocessors, Analog/Digital Electronics, Instrumentation Systems
+
+---
+
+## 📜 Certifications
+
+- 🧪 [MLOps Bootcamp](#)  
+- 🧠 [Deep Learning, NLP, CUDA – NVIDIA](#)  
+- 💻 [Machine Learning Specialization – DeepLearning.AI & Stanford](#)  
+- 📚 [DSA in C, C++, Python](#)  
+- 🌐 [Developing Front-End Apps with React](#)
+
+---
+
+## 👩‍🔧 Leadership & Contributions
+
+- 🎤 Workshop and Team Management Lead – Hult Prize 2025  
+- 📢 PR Lead – ISOI (Instrumentation Society of India), HITK Chapter  
+- 🛠️ Instructor – Mechatronics Workshop at ISOI Event, Dec 2023  
+- 🎪 Volunteer – NasTech 2023 by NASSCOM, Kolkata  
+
+---
+
+## 🌍 Languages
+
+- English, Bengali, Hindi, Spanish
+
+---
+
+> 🔭 I'm currently looking for exciting internship opportunities and full time offers where I can contribute to impactful engineering projects in AIML, embedded systems, or full-stack development.
