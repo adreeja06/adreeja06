@@ -1,63 +1,80 @@
- 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adreeja Mahato</h1>
 
-<!--  -->
-
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adreeja Mahato </h1>
-
-
-
-## 🙋‍♂️ About Me
-
-I am currently a B.Tech undergrad persuing Applied Electronics and Instrumentation Engineering. 
-
- 
- [![@adreeja06's Holopin board](https://holopin.me/adreeja06)](https://holopin.io/@adreeja06)
-
- 
-
+<p align="center"> 
+🎓 B.Tech in Applied Electronics and Instrumentation | 💻 Developer & ML Enthusiast | 🛠️ Hackathon Winner  
 </p>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+---
+
+## 🙋‍♀️ About Me
+
+- 🔬 Final-year undergrad at **Heritage Institute of Technology, Kolkata** (CGPA: 8.66)  
+- 💼 Interned at **IOCL** (developed safety dashboards using ASP.NET MVC)  
+- 🧠 Built **CNNs for image classification** at **ISI Kolkata**, achieving up to 96% accuracy  
+- 🚀 Developed & deployed **ML-based Student Performance Predictor** using Flask, Docker & Azure  
+- 🏆 Multiple **hackathon wins**, including Smart Bengal 2024 & StatusCode1 at IIIT Kalyani  
+- 🛠️ Skilled in Python, C++, SQL, TensorFlow, Docker, Embedded Systems  
+
+[![@adreeja06's Holopin board](https://holopin.me/adreeja06)](https://holopin.io/@adreeja06)
+
+---
+
+## 🔧 Tech Stack & Tools
+
+`Python` `C++` `SQL` `TensorFlow` `Keras` `Scikit-learn` `Flask` `Docker`  
+`ESP32` `Arduino IDE` `MLflow` `React` `MongoDB` `Git` `Linux`  
+
+---
+
+## 📊 My GitHub Stats
 
 <p align="center">
-    <a href="https://github.com/adreeja06/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adreeja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adreeja06&theme=onedark&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <a href="https://github.com/adreeja06/github-readme-streak-stats">
+    <img title="🔥 GitHub Streak" alt="Adreeja's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=adreeja06&theme=onedark&hide_border=true"/>
+  </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/adreeja06/github-readme-stats"><img alt="Adreeja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adreeja06&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/adreeja06/github-readme-stats"><img alt="Tandrima Singha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adreeja06&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
-  </br>
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/adreeja06/github-readme-activity-graph"></a>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="centre">
-
-<a href = "https://www.linkedin.com/in/adreeja-mahato-84a000226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_a.d.r.e.e.j.a_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<p align="center">
+  <a href="https://github.com/adreeja06/github-readme-stats">
+    <img alt="Adreeja's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adreeja06&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/adreeja06/github-readme-stats">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adreeja06&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/sainik-khaddar/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=adreeja06">
+---
+
+## 📌 Featured Project
+
+### 🎯 Student Performance Indicator  
+<sub>Machine Learning | Flask | Docker | Azure</sub>  
+- 📈 Built ML regression model with **R² score: 87.95%**  
+- 🚀 Deployed using Flask + Docker on Azure with MLflow & GitHub Actions  
+- [🔗 GitHub Link](#)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/adreeja-mahato-84a000226/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/_a.d.r.e.e.j.a_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
+---
+
+## ❤️ Views and Followers
+
+<p align="center">
+<a href="https://github.com/adreeja06">
+  <img src="https://komarev.com/ghpvc/?username=adreeja06&style=flat-square&color=blue" />
 </a>
-<a href="https://github.com/sainik-khaddar?tab=followers"><img src="https://img.shields.io/github/followers/adreeja06?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/adreeja06?tab=followers">
+  <img src="https://img.shields.io/github/followers/adreeja06?label=Followers&style=social" alt="GitHub Badge">
+</a>
+</p>
 
+---
 
-## Adreeja ~ owner
-
+<p align="center"><i>✨ Let's build something amazing together!</i></p>
