@@ -40,22 +40,6 @@ Heritage Institute of Technology, Kolkata
 
 ---
 
-## 💡 Projects
-
-### 🎓 Student Performance Indicator  
-**Tech Stack:** Python, Scikit-learn, Flask, Azure, Docker, MLflow  
-📅 *June 2025* – [GitHub Repo](#)  
-- Built an ML pipeline achieving 87.95% accuracy (R² score) to predict student outcomes.  
-- Deployed using Flask & Docker on Azure for 24/7 uptime.  
-- Automated CI/CD via GitHub Actions and tracked experiments with MLflow.
-
-### 🔥 Brain Tumor & Fire Detection  
-**Tech Stack:** Python, TensorFlow, OpenCV  
-- Developed deep learning models to detect tumors and fire from image datasets.  
-- Employed CNN architectures and data augmentation to improve model generalization.
-
----
-
 ## 🏆 Achievements
 
 - 🥇 Winner, Smart Bengal Hackathon 2024 (non-invasive blood glucose monitoring system)  
