@@ -95,5 +95,12 @@ I'm a passionate engineering student currently pursuing a B.Tech in Applied Elec
 - English, Bengali, Hindi, Spanish
 
 ---
+## 🧩 Hacktoberfest & Open Source
+
+I have actively contributed to open source, during **Hacktoberfest** where I earned multiple badges and recognitions!
+
+[![Holopin Badges](https://holopin.io/api/user/board?user=adreeja06)](https://holopin.io/@adreeja06)
+
+---
 
 > 🔭 I'm currently looking for exciting internship opportunities and full time offers where I can contribute to impactful engineering projects in AIML, embedded systems, or full-stack development.
