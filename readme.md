@@ -9,7 +9,8 @@ I'm a passionate engineering student currently pursuing a B.Tech in Applied Elec
 - 📍 212 Rash Behari Avenue, Kolkata – 700019, West Bengal, India  
 - 📧 adreejamahato@gmail.com  
 - 📞 +91 9163605787  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/adreeja-mahato-84a000226/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adreeja-mahato-84a000226/)
+- 💻[LeetCode](https://leetcode.com/u/adreeja06/)
 
 ---
 
